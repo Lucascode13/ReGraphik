@@ -26,7 +26,7 @@ Os detalhes da estrutura de dados podem ser encontrados nas pastas:
 * ##  Funcionalidades em Destaque
 - [ ] Cadastro e Triagem de Resíduos (Papel, Vinil, Cartão)
 - [ ] Controle de Estoque de Matéria-Prima Reutilizável
-- [ ] Dashboard de Sustentabilidade e Economia Circular
+- [ ] Sustentabilidade e Economia Circular
 - [ ] Gestão de Pedidos de Produtos Personalizados
 
 
