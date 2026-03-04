@@ -11,6 +11,12 @@ O software ReGraphik transforma o que hoje é descartado em valor através de:
 * **Economia Circular:** Transformação de resíduos em matéria-prima para personalização de produtos (camisetas, canecas e brindes).
 * **Redução de Desperdícios:** Algoritmos de sugestão para reaproveitamento inteligente.
 
+ ##  Documentação de Criação do Sistema
+Os detalhes da estrutura de dados podem ser encontrados nas pastas:
+* **MiniMundo:** Descrição do fluxo de negócio.
+* **Modelo Conceitual:** Diagrama de alto nível.
+* **Modelo Lógico:** Estrutura técnica das tabelas.
+
 ##  Tecnologias e Arquitetura
 * **Linguagem:** C#
 * **Interface:** WPF (Windows Presentation Foundation)
@@ -23,11 +29,7 @@ O software ReGraphik transforma o que hoje é descartado em valor através de:
 - [ ] Dashboard de Sustentabilidade e Economia Circular
 - [ ] Gestão de Pedidos de Produtos Personalizados
 
-##  Documentação do Banco de Dados
-Os detalhes da estrutura de dados podem ser encontrados nas pastas:
-* **MiniMundo:** Descrição do fluxo de negócio.
-* **Modelo Conceitual:** Diagrama de alto nível.
-* **Modelo Lógico:** Estrutura técnica das tabelas.
+
 
 ##  Arquitetura de Software
 O projeto segue o padrão **MVVM**, garantindo a separação entre a interface (XAML) e a lógica de negócio (C#), facilitando a manutenção e a realização de testes unitários.
